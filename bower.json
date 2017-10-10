@@ -1,0 +1,18 @@
+{
+  "name": "saveftp",
+  "homepage": "https://github.com/fpwebdigital/saveftp",
+  "authors": [
+    "Fernando Pires"
+  ],
+  "description": "salvar ftps",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
