@@ -19,6 +19,8 @@
     "bootstrap": "v4.0.0-beta",
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
-    "firebase": "^4.5.2"
+    "firebase": "^4.5.2",
+    "gulp": "^3.9.1",
+    "gentelella": "^1.4.0"
   }
 }
